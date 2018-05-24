@@ -1,0 +1,19 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Client Side for Symposium app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Gogia <desmondmiles36@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^5.4.2"
+  },
+  "dependencies": {
+    "fecha": "^2.3.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
